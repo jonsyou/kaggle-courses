@@ -1,6 +1,17 @@
-> [tutorial url](https://www.kaggle.com/alexisbcook/line-charts)
+[tutorial url](https://www.kaggle.com/alexisbcook/line-charts)
 
 # Tutorial
+
+## 0. Setup
+
+```python
+import pandas as pd
+pd.plotting.register_matplotlib_converters()
+import matplotlib.pyplot as plt
+%matplotlib inline
+import seaborn as sns
+print("Setup Complete")
+```
 
 ## 1. Load the data
 
