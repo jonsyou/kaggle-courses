@@ -46,3 +46,7 @@ plt.figure(figsize=(16,6))
 # Line chart showing how FIFA rankings evolved over time 
 sns.lineplot(data=fifa_data)
 ```
+
+Output :
+![image](https://user-images.githubusercontent.com/74973306/104544803-0a0ccd80-566c-11eb-8c12-373226b8e546.png)
+
