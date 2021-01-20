@@ -36,6 +36,14 @@
 |6|Binary Classification|[click](https://github.com/jonsyou/kaggle-courses/blob/main/Intro_to_Deep_Learning/6.binary-classification.md)|
 
 
+## 4. Feature Engineering
+
+| index | title | link |
+|---|---|---|
+|1|Baseline Model|[click](https://github.com/jonsyou/kaggle-courses/blob/main/Feature_Engineering/1.baseline-model.md)|
+|2|Categorical Encodings|[click](https://github.com/jonsyou/kaggle-courses/blob/main/Feature_Engineering/2.categorical-encodings.md)|
+|3|Feature Generation|[click](https://github.com/jonsyou/kaggle-courses/blob/main/Feature_Engineering/3.feature_generation.md)|
+
 
 
 
