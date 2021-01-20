@@ -43,6 +43,7 @@
 |1|Baseline Model|[click](https://github.com/jonsyou/kaggle-courses/blob/main/Feature_Engineering/1.baseline-model.md)|
 |2|Categorical Encodings|[click](https://github.com/jonsyou/kaggle-courses/blob/main/Feature_Engineering/2.categorical-encodings.md)|
 |3|Feature Generation|[click](https://github.com/jonsyou/kaggle-courses/blob/main/Feature_Engineering/3.feature_generation.md)|
+|4|Feature Selection|[click](https://github.com/jonsyou/kaggle-courses/blob/main/Feature_Engineering/4.feature-selection.md)|
 
 
 
