@@ -46,6 +46,15 @@
 |4|Feature Selection|[click](https://github.com/jonsyou/kaggle-courses/blob/main/Feature_Engineering/4.feature-selection.md)|
 
 
+## 5. Machine Learning Explainability
 
+| index | title | link |
+|---|---|---|
+|1|Use Cases for Model Insights|[click](https://github.com/jonsyou/kaggle-courses/blob/main/Machine_Learning_Explainability/1.machine-learning-explainability.md)|
+|2|Permutation Importance|[click](https://github.com/jonsyou/kaggle-courses/blob/main/Machine_Learning_Explainability/2.permutation-importance.md)|
+|3|Partial Plots|[click](https://github.com/jonsyou/kaggle-courses/blob/main/Machine_Learning_Explainability/3.partial-plots.md)|
+
+|
+ 
 
 
